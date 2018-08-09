@@ -34,9 +34,52 @@ h2{
 h3{
 	font-weight:400px; 
 }
+
 .offer{
-	background:red; 
+	background:yellow; 
 }
 .offer_title{
-
+	font-size:37px;
+	margin-bottom:6px;  
+}
+.offer_intro{
+	font-size:20px;
+	line-height:1,2em;
+}
+.offer_intro{
+	font-size:16px;
+	margin-top:15px;
+	color:#555555;  
+	width:400px;
+}
+.icons_item a{
+	color:#000;
+	font-size:22px;
+}
+.icons_item a:hover{
+	text-decoration:none;
+	color:green;
+}
+.Ipad{
+	display:block;
+	margin:100px auto 0; 
+}
+.title{
+	padding-top:100px; 
+	text-align:center;
+	padding-bottom:70px;
+}
+.title_main{
+	font-size:32px;
+}
+.title_text{
+	font-size:20px;
+}
+.feature{
+	font-size:30px;
+	margin-right:17px;
+	
+}
+.feature_text{
+	color:blue;
 }
